@@ -1,64 +1,210 @@
+<!-- Animated Header -->
 <div align="center">
 
-<!-- Typing Header -->
-<a href="https://github.com/ilyassesoulali4-arch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=70&lines=ILYASSE+SW;AI+%26+Full-Stack+Architect;Desktop+Systems+Developer;Creator+of+Meganux;Open+Source+Advocate" alt="Typing Header" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Ilyasse+SW+%F0%9F%91%8B;AI+Software+Developer;Full-Stack+Web+Developer;Desktop+Application+Builder;Creator+of+Meganux;Open+Source+Enthusiast" />
 
 <br>
 
-<p align="center">
-  <b>Architecting Intelligent Systems • Engineering Desktop Ecosystems • Open-Source Advocate</b>
-</p>
-
-<!-- Tech Stack Badges Banner -->
-<a href="#-tech-stack">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,electron,fastapi,nodejs,mongodb,firebase,linux,git,github,vscode,docker,tailwind" />
-</a>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header&text=Building%20The%20Future%20With%20Code&fontSize=28&fontColor=0d1117&animation=twinkling&fontAlignY=35" />
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+<div align="center">
 
-```yaml
-Developer : Ilyasse SW
-Location  : Morocco 🇲🇦
-Core Focus: AI Desktop Systems & Agentic Workflows
-Flagship  : Building Meganux 🧠
-Status    : Available for High-Impact Projects & Collaborations
-🛠️ Tech Stack & EcosystemDomainCore Technologies & FrameworksLanguagesPython TypeScript JavaScript HTML/CSSAI & BackendFastAPI Node.js Firebase MongoDB REST APIsFrontend & DesktopReact Electron Tailwind CSS Next.jsTooling & OSLinux (Arch) Git GitHub Actions Docker VS Code🚀 Key Initiatives & Focus Areas🧠 Meganux (Flagship Ecosystem)An AI-native desktop platform uniting Large Language Models, autonomous agent workflows, productivity tooling, and system-level automation into a single fluid workspace.🖥️ Desktop Engineering: Native cross-platform applications combining modern web runtimes (Electron, React) with high-performance backends (FastAPI, Python).🤖 Autonomous Agents & Bots: Custom Discord ecosystems, event-driven community management platforms, and intelligent automation systems.⚡ Workflow Automation: Enterprise-grade scripting and process automation designed to eliminate manual bottlenecks.🔓 Open Source & Systems: Continuous contributions to open systems, modular software design, and community utilities.📊 Analytics & ActivityPlaintext"Building the future of software, one iteration at a time."
-⭐ Explore My Repositories • Connect on GitHubOption 2: Executive Cyberpunk & CreativeMarkdown<div align="center">
+### Software Builder • AI Applications • Full-Stack Development • Desktop Software
 
-<!-- Header SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&height=85&lines=%3C+ILYASSE+SW+%2F%3E;AI+Engineers+%26+Systems+Architect;Creator+of+Meganux;Building+Next-Gen+Desktop+AI" alt="Header" />
+<br>
 
-<p align="center">
-  <code>AI Systems</code> • <code>Full-Stack</code> • <code>Desktop Workflows</code> • <code>Open Source</code>
-</p>
+<a href="https://github.com/ilyassesoulali4-arch">
+  <img src="https://img.shields.io/github/followers/ilyassesoulali4-arch?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117" />
+</a>
+<a href="https://github.com/ilyassesoulali4-arch?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ilyassesoulali4-arch?label=Stars&style=for-the-badge&color=00ff88&labelColor=0d1117" />
+</a>
+<a href="https://github.com/ilyassesoulali4-arch">
+  <img src="https://komarev.com/ghpvc/?username=ilyassesoulali4-arch&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
+</a>
+
+</div>
 
 ---
 
-### 🌐 System Overview
+## 👨‍💻 About Me
 
-```toml
-[developer]
-alias = "Ilyasse SW"
-region = "Morocco [UTC+1]"
-specialization = "AI Integration & Desktop Architecture"
+```yaml
+name: Ilyasse SW
+location: Morocco 🇲🇦
+role: AI Software Developer
+specialization:
+  - AI Desktop Applications
+  - Full-Stack Web Development
+  - Automation Systems
+  - Software Architecture
+  - Open Source Development
 
-[current_mission]
-target = "Meganux Platform"
-status = "Active Development"
-focus = ["Agentic AI Systems", "Modular Software Design", "Low-Latency UI"]
-🧠 Flagship Project: Meganux+-----------------------------------------------------------------------+
-|  MEGANUX: Next-Gen AI Integration Platform                            |
-|  -------------------------------------------------------------------  |
-|  • Unified Interface for Multimodal Models & Autonomous Agents        |
-|  • System-Level Desktop Automation & Productivity Orchestration       |
-|  • Built with Python, FastAPI, Electron, and React Frameworks         |
-+-----------------------------------------------------------------------+
-🛠 Tech StackCore CompetenciesEngineering FocusFrontend & Desktop UIModern Responsive Interfaces, Cross-Platform Desktop RuntimesBackend & Cloud ArchitectureAsync Microservices, REST/GraphQL APIs, Real-Time DatabasesAI Systems IntegrationModel Orchestration, Workflow Automation, Agent Logic📈 Dev Metrics💡 Let's Build Something ExceptionalThank you for stopping by! Feel free to star my repositories or reach out for collaboration.
+currently\_building: Meganux
+learning: AI Architecture & Scalable Systems
+mission: Build useful, intelligent, and beautiful software
+I’m a passionate software developer focused on transforming ideas into practical digital experiences. I enjoy building modern web applications, intelligent desktop tools, automation systems, Discord bots, and experimental projects.
+
+My main goal is to create software that is powerful, accessible, visually impressive, and genuinely useful.
+
+🧠 My Main Project
+
+⚡ Meganux
+
+The intelligent workspace for the future
+
+Meganux is a long-term AI desktop platform designed to bring together powerful AI models, productivity tools, intelligent workflows, automation features, and future agent-based systems into one unified experience.
+
+text
+
+
+Meganux =
+AI Models
++ Productivity
++ Automation
++ Intelligent Workflows
++ Desktop Experience
++ Future Agent Systems
+Planned Direction
+AI-powered desktop tools
+Intelligent personal workflows
+Productivity-focused features
+Modular software architecture
+AI agents and automation systems
+Modern and customizable user interface
+Support for multiple AI models and services
+One platform. Many possibilities. Built step by step.
+
+🚀 What I Build
+🛠️ Technology Stack
+
+Languages
+
+Image not available
+
+Frameworks & Runtime
+
+Image not available
+
+Databases & Services
+
+Image not available
+
+Tools & Environment
+
+Image not available
+
+🎯 Current Focus
+text
+
+
+[██████████████████░░] Building Meganux
+[███████████████░░░░░] Learning AI Architecture
+[██████████████░░░░░░] Improving UI/UX Design
+[████████████░░░░░░░░] Exploring Intelligent Automation
+[██████████░░░░░░░░░░] Contributing to Open Source
+Building the foundation of Meganux
+Designing clean and modern user interfaces
+Learning scalable software architecture
+Exploring AI agents and intelligent workflows
+Improving full-stack development skills
+Creating more open-source tools
+📊 GitHub Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔥 Contribution Streak
+
+Image not available
+
+🐍 Contribution Activity
+
+GitHub contribution snake animationImage not available
+
+🌱 Developer Mindset
+text
+
+
+Think big.
+Start small.
+Build consistently.
+Learn continuously.
+Improve every day.
+I believe great software is created through curiosity, consistency, experimentation, and a willingness to keep learning.
+
+Every project is an opportunity to solve a problem, improve a skill, and create something meaningful.
+
+📌 Featured Goals
+Build Meganux into a powerful AI desktop platform
+Create useful open-source developer tools
+Develop intelligent automation systems
+Improve software architecture skills
+Build beautiful and accessible interfaces
+Share knowledge through code and projects
+
+Image not available
+
+⭐ Thanks for visiting my profile
+
+Building the future, one project at a time.
+
+
+
+Image not available
+
+```
+For the contribution snake animation to work, create a GitHub Actions workflow at:
+
+text
+
+
+.github/workflows/snake.yml
+Then add:
+
+yaml
+
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ilyassesoulali4-arch
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
