@@ -58,8 +58,8 @@ Developing tools that automate repetitive tasks, improve workflows, and simplify
 ---
 
 ### 🔓 Open Source Projects
-
 Developing open-source tools and projects while continuously learning and improving.
+
 ---
 
 # 📊 GitHub Statistics
