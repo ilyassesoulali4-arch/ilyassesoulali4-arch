@@ -62,9 +62,9 @@ Building and sharing open-source software while continuously learning, improving
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyassesoulali4-arch&show_icons=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyassesoulali4-arch&show_icons=true&rank_icon=github&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassesoulali4-arch&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassesoulali4-arch&layout=compact&langs_count=8" />
 
 </div>
 
