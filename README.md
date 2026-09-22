@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=80&lines=ILYASSE+SW;AI+%26+Desktop+Software+Builder;Creator+of+Meganux;Open+Source+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&height=80&lines=ILYASSE+SW;AI+Software+Developer;Full-Stack+Web+Developer;Desktop+Application+Builder;Creator+of+Meganux;Open+Source+Enthusiast" />
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,electron,fastapi,firebase,linux,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,electron,fastapi,firebase,mongodb,html,css,git,github,linux,vscode" />
+
+<br><br>
+
+Software Builder • AI Applications • Full-Stack Development • Desktop Software • Open Source
 
 </div>
-
 ---
 
 # 🚀 About Me
@@ -55,7 +58,8 @@ Developing tools that automate repetitive tasks, improve workflows, and simplify
 ---
 
 ### 🔓 Open Source Projects
-Building and sharing open-source software while continuously learning, improving, and contributing to the developer community.
+
+Developing open-source tools and projects while continuously learning and improving.
 ---
 
 # 📊 GitHub Statistics
