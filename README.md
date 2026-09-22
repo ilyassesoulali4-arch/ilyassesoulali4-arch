@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&height=80&lines=ILYASSE+SW;AI+Software+Developer;Full-Stack+Web+Developer;Desktop+Application+Builder;Creator+of+Meganux;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&height=80&lines=ILYASSE+SW;AI+Software+Developer;Full-Stack+Web+Developer;Desktop+Application+Builder;Creator+of+Meganux;Open+Source+Enthusiast" />
 
 <br><br>
 
@@ -88,7 +88,7 @@ Developing open-source tools and projects while continuously learning and improv
 
 <div align="center">
 
-<img src="streak-stats.demolab.com?user=ilyassesoulali4-arch"/>
+<img src="https://streak-stats.demolab.com?user=ilyassesoulali4-arch"/>
 
 </div>
 
@@ -120,4 +120,4 @@ Developing open-source tools and projects while continuously learning and improv
 
 Building The Future One Project At A Time
 
-</div> 
+</div>
