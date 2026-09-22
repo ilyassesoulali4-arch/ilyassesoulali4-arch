@@ -62,9 +62,19 @@ Building and sharing open-source software while continuously learning, improving
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyassesoulali4-arch&show_icons=true&rank_icon=github&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilyassesoulali4-arch&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassesoulali4-arch&layout=compact&langs_count=8" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyassesoulali4-arch&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilyassesoulali4-arch&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyassesoulali4-arch&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilyassesoulali4-arch&theme=github_dark&utcOffset=1" />
 
 </div>
 
